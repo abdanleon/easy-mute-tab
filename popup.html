@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Easy Mute Tab</title>
+  <style>
+    body {
+      font-family: Segoe UI, Arial, sans-serif;
+      width: 300px;
+      margin: 15px;
+      background: #eee;
+      color: #111;
+    }
+    h3 {
+      margin: 0 0 5px;
+      font-size: 15px;
+    }
+    p {
+      margin: 0 0 10px;
+      font-size: 12px;
+      line-height: 1.4;
+    }
+    textarea {
+      width: 100%;
+      height: 120px;
+      box-sizing: border-box;
+      padding: 10px;
+      font-size: 12px;
+      border: 1px solid #bbb;
+      border-radius: 10px;
+      resize: vertical;
+    }
+    button {
+      margin-top: 10px;
+      width: 100%;
+      padding: 10px;
+      background: #0078d4;
+      color: #ffffff;
+      border: none;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #005a9e;
+    }
+    #status {
+      margin: 5px 0;
+      font-size: 12px;
+      color: #0078d4;
+      min-height: 16px;
+    }
+    a {
+      text-decoration: underline;
+      color: inherit;
+    }
+  </style>
+</head>
+<body>
+  <h3>Excluded Websites</h3>
+  <p>Enter one URL or domain per line (press Enter).<br />Example : <code>youtube.com</code></p>
+  <textarea id="whitelistInput" placeholder="Add here.."></textarea>
+  <button id="saveBtn" type="button">Save</button>
+  <div id="status"></div>
+  <p>Made by <a href="https://abdanleon.blogspot.com/" target="_blank">Abdan Leon</a> &amp; Google Gemini &#8226; <a href="https://github.com/abdanleon/easy-mute-tab" target="_blank">See Github</a></p>
+  <script src="popup.js"></script>
+</body>
+</html>
