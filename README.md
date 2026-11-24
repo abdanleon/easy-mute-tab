@@ -15,3 +15,6 @@ Browser extension for automatically mute all tabs, except for whitelisted websit
 - Load the Unpacked Extension
   - Click Load unpacked.
   - Select the extracted mute-tab-easy folder and confirm.
+
+## Configure Excluded Websites
+<img src="https://raw.githubusercontent.com/abdanleon/easy-mute-tab/refs/heads/main/example.png"/>
