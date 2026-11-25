@@ -1,20 +1,29 @@
-## Mute Tab Easy
-Browser extension for automatically mute all tabs, except for whitelisted websites.
+## Get the Files
+- You can download the .zip file from this GitHub repository or the provided <a href="https://drive.google.com/file/d/10mL8PYLXjXeGyzrkxkVgZo5Z4EPKIvmC/view">Google Drive</a> link.
+- Extract the .zip archive and place it in a safe location, such as Downloads, Documents, or Local Disk.
+- Once extracted, open the resulting easy-mute-tab folder and verify that it contains: icons (folder), background.js, manifest.json, popup.html, and popup.js.
 
-## Installation Guide
-- Get the Files
-  - Download the Files from <a href="https://drive.google.com/file/d/10mL8PYLXjXeGyzrkxkVgZo5Z4EPKIvmC/view?usp=drive_link">Google Drive</a>
-  - Open the Google Drive link containing Mute Tab Easy.
-  - Download the .zip archive (or download all project files) to your computer.
-- Extract the Archive
-  - Right-click the downloaded .zip file and select Extract All... (or unzip it into a dedicated folder, such as mute-tab-easy).
-  - Make sure the root of the extracted folder directly contains manifest.json (not nested inside an extra subfolder with the same name) and includes the icons/ folder (icon16.png, icon48.png, icon128.png).
-- Open Extensions & Enable Developer Mode
-  - Navigate to your browser's extensions page.
-  - Turn on Developer mode.
-- Load the Unpacked Extension
-  - Click Load unpacked.
-  - Select the extracted mute-tab-easy folder and confirm.
+## Install the Extension
+- Open your browser and go to the Extensions page.
+- Enable Developer Mode and click Load Unpacked.
+- Select the easy-mute-tab folder and confirm.
 
-## Configure Excluded Websites
+## Compatible Browsers
+| Browser | Extension Link |
+| --- | --- |
+| Google Chrome | `chrome://extensions/` |
+| Microsoft Edge | `edge://extensions/` |
+| Brave | `brave://extensions/` |
+| Opera | `opera://extensions/` |
+| Vivaldi | `vivaldi://extensions/` |
+
+## How to Configure Exclusions
+- Click the Easy Mute Tab extension icon.
+- Enter the websites you want to exclude (keep unmuted).
+- Click Save and restart your browser.
 <img src="https://raw.githubusercontent.com/abdanleon/easy-mute-tab/refs/heads/main/example.png"/>
+
+## Remove the Extension
+- Open your browser and go to the Extensions page.
+- Find the Easy Mute Tab extension and click Remove.
+- If needed, delete the easy-mute-tab folder from your PC or laptop.
