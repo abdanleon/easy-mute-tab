@@ -1,3 +1,6 @@
+## Mute Tab Easy
+Browser extension for automatically mute all tabs, except for whitelisted websites.
+
 ## Get the Files
 - You can download the .zip file from this GitHub repository or the provided <a href="https://drive.google.com/file/d/10mL8PYLXjXeGyzrkxkVgZo5Z4EPKIvmC/view">Google Drive</a> link.
 - Extract the .zip archive and place it in a safe location, such as Downloads, Documents, or Local Disk.
