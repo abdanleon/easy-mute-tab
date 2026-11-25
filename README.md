@@ -1,4 +1,4 @@
-## Mute Tab Easy
+## Easy Mute Tab
 Browser extension for automatically mute all tabs, except for whitelisted websites.
 
 ## Get the Files
@@ -10,6 +10,8 @@ Browser extension for automatically mute all tabs, except for whitelisted websit
 - Open your browser and go to the Extensions page.
 - Enable Developer Mode and click Load Unpacked.
 - Select the easy-mute-tab folder and confirm.
+
+**Note:** Do not turn off Developer Mode while the extension is installed, and do not delete the easy-mute-tab folder.
 
 ## Compatible Browsers
 | Browser | Extension Link |
