@@ -2,7 +2,7 @@
 Browser extension for automatically mute all tabs, except for whitelisted websites.
 
 ## Get the Files
-- You can download the .zip file from this GitHub repository or the provided <a href="https://drive.google.com/file/d/10mL8PYLXjXeGyzrkxkVgZo5Z4EPKIvmC/view">Google Drive</a> link.
+- You can download the .zip file from this GitHub repository or the provided Google Drive link.
 - Extract the .zip archive and place it in a safe location, such as Downloads, Documents, or Local Disk.
 - Once extracted, open the resulting easy-mute-tab folder and verify that it contains: icons (folder), background.js, manifest.json, popup.html, and popup.js.
 
@@ -14,7 +14,7 @@ Browser extension for automatically mute all tabs, except for whitelisted websit
 **Note:** Do not turn off Developer Mode while the extension is installed, and do not delete the easy-mute-tab folder.
 
 ## Compatible Browsers
-| Browser | Extension Link |
+| Browser | Extension Page |
 | --- | --- |
 | Google Chrome | `chrome://extensions/` |
 | Microsoft Edge | `edge://extensions/` |
